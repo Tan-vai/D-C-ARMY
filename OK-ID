@@ -1,5 +1,5 @@
 #Don't Forget To Follow My Facebook Page👇
-# https://www.facebook.com/profile.php?id=100093984589116
+# https://www.facebook.com/profile.php?id=100093984589116'
 import os,sys,time,json,random,re,string,platform,base64,uuid
 os.system(
 from bs4 import Beoup as sop
